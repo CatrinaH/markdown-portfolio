@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* top
+  * shirt
+* botoms
+  * pants
+  * shorts
+* socks
+* shoes
